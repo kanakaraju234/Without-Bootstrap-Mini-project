@@ -1,0 +1,374 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.a {
+    background-image:linear-gradient(rgba(0,0,0,0.20),rgba(0,0,0,0.20)),url("camera.jpeg");
+    height: auto;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 117px;
+}
+
+nav {
+    margin: 0 90px;
+}
+
+.pro {
+    text-align: center;
+    word-spacing: 100px;
+    line-height: 10;
+    font-size: 10px;
+    margin-right: 21px;
+    background: black;
+}
+
+.pro a{
+    color: white;
+    text-decoration: none;
+}
+
+.pro li {
+    display: inline-block;
+}
+
+a.active {
+    background-color: #97BF38;
+    padding: 14px 48px;
+    margin-right: 20px;
+}
+
+.secure {
+    margin-top: 40px;
+    padding-left: 89px;
+    display: flex;
+}
+.secure span i{
+    background: white;
+    color: #97BF38;
+    text-align: center;
+    width: 52%;
+    padding: 14px 5px;
+    font-size: 25px;
+    border-radius: 28px;
+}
+
+.secure span {
+    font-size: 38px;
+    color: white;
+    width: 80px;
+}
+
+.clients {
+    margin-top: 98px;
+    padding-left: 86px; 
+}
+
+.clients h1{
+    color: white;
+   font-family: 'Roboto', sans-serif;
+}
+
+.clients span {
+    color: #97BF38;
+    font-size: 30px;
+    display: block;
+}
+
+.clients button {
+    background: #97BF38;
+    border: none;
+    margin-top: 30px;
+    font-size: 10px;
+    color: white;
+    padding: 18px 38px;
+}
+.card{
+    margin-top: 46px;
+    height: 250px; 
+}
+.card-title {
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+    height: 100px;
+    background: grey;
+
+}
+.card-title>div {
+    color: white;
+    font-size: 20px;
+}
+.card-title:first-child {
+    background: #97BF38;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 28px;
+    padding: 10px 12px;
+
+}
+.card-title>h1 {
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 35px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.card-content {
+    margin-top: 55px;
+}
+.card-content p {
+    line-height: 2;
+    color: darkgrey;
+     font-family: 'Roboto', sans-serif;
+}
+
+.b {
+    margin-top: 71px;
+    height: auto;
+    background-image: url(handlike.jpeg);
+    padding-bottom: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.profile {
+    margin-top: 83px;
+    width: ;
+    height: 180px;
+    background: ;
+}
+
+.profile-logo  i{
+    color: white;
+    padding: 22px 24px;
+    border-radius: 36px;
+    background-color: #97BF38;
+    font-size: 28px;
+}
+.profile-logo>div{
+    float: left;
+}
+.profile-content {
+    width: 481px;
+    color: white;
+    margin-top:px;
+    float: right;
+    display: inline-block;
+    margin-left: 21px;
+}
+
+.profile-content h3 {
+    color: rgba(245, 245, 245, 0.6);
+    text-align: center;
+    padding-right: 57px;
+    font-size: 20px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.profile-content p {
+    color: darkgrey;
+    padding-left: ;
+     font-family: 'Roboto', sans-serif;
+}
+
+.services h1 {
+    color:  #97BF38;
+     font-family: 'Roboto', sans-serif;
+}
+.services img {
+    height: 40px;
+}
+
+.abc{
+    margin-top: 71px;
+    height: auto;
+    background-image: url(handlike.jpeg);
+    padding-bottom: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.profession{
+    margin-top: 83px;
+    width: ;
+    height: 180px;
+    background: ;
+}
+
+.profession-logo  img{
+   border-radius: 36px;
+    width: 50px;
+    height: 52px;
+}
+.profession-logo>div{
+    float: left;
+}
+.profession-content {
+    width: 80%;
+    color: white;
+    margin-top:px;
+    float: right;
+    display: inline-block;
+    margin-left: 21px;
+}
+
+.profession-content h3 {
+    color: rgba(245, 245, 245, 0.6);
+    text-align: center;
+    padding-right: 57px;
+    font-size: 20px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.profession-content p {
+    color: darkgrey;
+    padding-left: ;
+     font-family: 'Roboto', sans-serif;
+}
+
+.site h1 {
+    color:  #97BF38;
+    font-size: 40px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.site h3 {
+    font-size: 30px;
+    margin-top: -20px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.site span {
+    color:  #97BF38;
+}
+
+.gallery {
+    margin-top: 37px;
+}
+.figure img {
+    width: 80px;
+    height: 80px;
+    border-radius: 36px;
+}
+
+.figure h1{
+    color:  #97BF38;
+    font-size: 15px;
+    margin-top: 27px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.figure p{
+    font-size: 14px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.k {
+    background: black;
+    margin-top: 20px;
+}
+ 
+.symbol {
+    margin-top: 40px;
+}
+
+.symbol span i{
+    background: white;
+    color: #97BF38;
+    text-align: center;
+    width: 8%;
+    padding: 14px 5px;
+    font-size: 25px;
+    border-radius: 28px;
+}
+
+.k {
+    padding-bottom: 20px;
+}
+.subscribe-us {
+    float: right;
+   margin-top: 22px;
+}
+.subscribe-us p{
+    color: white;
+    margin-left: 40px;
+     font-family: 'Roboto', sans-serif;
+}
+
+.networks {
+ width: 84%;
+    word-spacing: 10px;   
+}
+
+.networks i{
+    color: white;
+}
+
+.networks li{
+    display: inline-block;
+}
+@media (max-width:860px){
+    .span-1-of-3 {
+        width: 100%;
+    }
+    .d{
+        text-align: center;
+    }
+    .nav {
+        padding-left: 0px;
+    }
+    .card-title>h1{
+        margin-left: 20px;
+    }
+    .card-title:first-child {
+   margin-left: 75px;
+
+}
+    .profile-content {
+        margin-left: -46px;
+        margin-top: 22px;
+    }
+    .span-1-of-4 {
+        width: 100%;
+    }
+    .c {
+        text-align: center;
+    }
+    .symbol {
+        text-align: center;
+    }
+    .symbol>span i{
+        padding: 10px 7px;
+    }
+    .subscribe-us {
+    float: none;
+    text-align: center;
+}
+    .subscribe-us p{
+        text-align: center;
+        margin-right: 48px;
+    }
+    .profile-logo i {
+        margin-left: 120px;
+    }
+    .profile-content>span{
+        margin-left: 99px;
+    }
+    .profession-logo img{
+        margin-top: -63px;
+        margin-left: 89px;
+    }
+}
+@media (max-width:597px){
+    .span-1-of-2 {
+        width: 100%;
+    }
+    
+    .g {
+        text-align: center;
+    }
+}
